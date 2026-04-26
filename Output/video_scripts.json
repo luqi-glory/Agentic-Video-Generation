@@ -1,0 +1,52 @@
+{
+  "story": {
+    "title": "湖面上的孤独",
+    "genre": "剧情",
+    "logline": "一位神情忧郁的女子独自在湖泊上划船，她的内心世界逐渐在这个过程中展现。",
+    "theme": "孤独与内心的探寻",
+    "tone": "静谧、忧伤",
+    "duration_target": "60 - 90秒",
+    "synopsis": "女子带着忧郁的神情来到湖泊，她登上小船开始划船。在划船的过程中，她时而凝视湖面，时而望向远方。随着时间的推移，她的动作变得缓慢，仿佛陷入了回忆之中。突然，一阵微风吹过，吹乱了她的头发，也打破了她的沉思。她回过神来，继续划船，最后慢慢靠岸，结束了这次孤独的湖上之旅。",
+    "narrative_arc": {
+      "beginning": "女子带着忧郁神情来到湖泊并开始划船。",
+      "development": "女子在划船过程中陷入回忆，动作缓慢。",
+      "turning_point": "微风吹过，打破沉思。",
+      "climax": "女子回过神来继续划船。",
+      "ending": "女子靠岸，结束湖上之旅。"
+    }
+  },
+  "background": {
+    "time": "黄昏",
+    "location": "一个宁静的湖泊，周围环绕着树木。",
+    "world_setting": "现实世界",
+    "atmosphere": "安静、祥和，带着一丝忧伤。",
+    "visual_style": "画面色调偏冷，注重光影对比。",
+    "lighting": "主要是自然的黄昏光线，从侧面和背面打在女子和小船上。",
+    "soundscape": "轻柔的风声、湖水的波动声以及偶尔的鸟鸣声。",
+    "key_objects": [
+      {
+        "name": "小船",
+        "description": "一艘简单的木制小船。",
+        "symbolic_meaning": "女子孤独的载体"
+      }
+    ]
+  },
+  "characters": [
+    {
+      "name": "女子",
+      "role": "主角",
+      "age": "未知",
+      "appearance": "穿着一件深色的长裙，头发披散在肩上，神情忧郁。",
+      "personality": "内向、多愁善感。",
+      "backstory": "可能经历了一些不愉快的事情。",
+      "motivation": "可能是想通过划船来排遣内心的忧郁。",
+      "conflict": "内心的忧郁与现实的宁静之间的冲突。",
+      "emotional_arc": "从开始的忧郁，到陷入回忆的迷茫，再到被风吹醒后的清醒，最后靠岸时的平静。"
+    }
+  ],
+  "metadata": {
+    "user_prompt": "神情忧郁的女子在湖泊上划船",
+    "created_at": "2026-04-26T14:22:38",
+    "scriptwriter_model": "doubao-seed-character-251128"
+  }
+}
