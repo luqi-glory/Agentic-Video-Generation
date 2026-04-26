@@ -344,7 +344,7 @@ def generate_actor_videos(
 
 
 if __name__ == "__main__":
-    ARK_API_KEY = "ark-7a76c904-4252-43c7-b7b7-f88c347103aa-a6b06"
+    ARK_API_KEY = "yours"
     actor = Actor(api_key=ARK_API_KEY)
     outputs = actor.generate_from_file()
     print(json.dumps(outputs, ensure_ascii=False, indent=2))

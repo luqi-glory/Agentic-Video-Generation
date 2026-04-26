@@ -3,7 +3,7 @@ import os
 import requests
 from openai import OpenAI
 
-API_KEY = "ark-7a76c904-4252-43c7-b7b7-f88c347103aa-a6b06"
+API_KEY = "yours"
 IMAGE_PATH = "/HARD-DATA/ZZQ/PSI/AgentVideo/Data/girl.jpg"
 OUTPUT_DIR = "/HARD-DATA/ZZQ/PSI/AgentVideo/Output"
 OUTPUT_FILE = "result_i2i.png"

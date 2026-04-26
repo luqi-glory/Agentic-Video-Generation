@@ -212,7 +212,7 @@ def save_script_json(memory: MemoryPool, output_path: str = "./Output/video_scri
 
 if __name__ == "__main__":
     prompt = DEFAULT_USER_PROMPT
-    ARK_API_KEY = "ark-7a76c904-4252-43c7-b7b7-f88c347103aa-a6b06"
+    ARK_API_KEY = "yours"
     scriptwriter = Scriptwriter(api_key=ARK_API_KEY)
     memory = scriptwriter.write_and_inject(prompt)
     output_file = save_script_json(memory)

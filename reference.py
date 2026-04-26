@@ -151,7 +151,7 @@ def generate_character_reference(
 
 
 if __name__ == "__main__":
-    ARK_API_KEY = "ark-7a76c904-4252-43c7-b7b7-f88c347103aa-a6b06"
+    ARK_API_KEY = "yours"
     generator = ReferenceImageGenerator(api_key=ARK_API_KEY)
     saved_path = generator.generate_from_file()
     print(f"角色参考图已保存到: {saved_path}")

@@ -4,7 +4,7 @@ import time
 import requests
 
 BASE_URL = "https://ark.cn-beijing.volces.com/api/v3/contents/generations/tasks"
-API_KEY = "ark-7a76c904-4252-43c7-b7b7-f88c347103aa-a6b06"
+API_KEY = "yours"
 IMAGE_PATH = os.path.join(os.path.dirname(__file__), "Data", "girl.jpg")
 
 if not API_KEY:

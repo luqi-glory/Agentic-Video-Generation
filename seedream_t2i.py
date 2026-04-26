@@ -4,7 +4,7 @@ from openai import OpenAI
 
 client = OpenAI(
     base_url="https://ark.cn-beijing.volces.com/api/v3",
-    api_key = "ark-7a76c904-4252-43c7-b7b7-f88c347103aa-a6b06", 
+    api_key = "yours", 
 )
 
 # 生成图片

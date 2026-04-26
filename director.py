@@ -250,7 +250,7 @@ def generate_video_director_json(
 
 
 if __name__ == "__main__":
-    ARK_API_KEY = "ark-7a76c904-4252-43c7-b7b7-f88c347103aa-a6b06"
+    ARK_API_KEY = "yours"
     director = Director(api_key=ARK_API_KEY)
     result = director.generate_from_file()
     print(json.dumps(result, ensure_ascii=False, indent=2))
